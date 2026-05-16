@@ -337,7 +337,7 @@ function PassengerApp({ onBack }) {
             // Firebase Timestamp has .toMillis(), plain Date has .getTime()
             lastUpdate = data.timestamp.toMillis ? data.timestamp.toMillis() : new Date(data.timestamp).getTime()
           }
-          const staleMs = 2 * 60 * 1000 // 2 minutes
+          const staleMs = 30 * 60 * 1000 // 2 minutes
           if (now - lastUpdate < staleMs) {
             activeBuses.push({
               id: docSnap.id,
