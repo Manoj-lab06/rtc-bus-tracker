@@ -2,7 +2,7 @@
 
 A real-time bus tracking web app built to solve a problem I faced with my college friends every day — not knowing when our RTC bus would arrive.
 
-🔗 **Live Demo:** [rtc-bus-tracker-3f89c.web.app](https://rtc-bus-tracker-3f89c.web.app)
+Live Demo: [rtc-bus-tracker.web.app](https://rtc-bus-tracker-3f89c.web.app)
 
 ## The Problem
 
@@ -40,4 +40,4 @@ No more guessing, no more relying on WhatsApp messages — just an accurate, liv
 
 ## Author
 
-Built by [Manoj](https://github.com/Manoj-lab06) — a student developer who builds real solutions to real, everyday problems.
+Built by [Manoj](https://github.com/Manoj-lab06).
